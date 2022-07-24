@@ -6,4 +6,4 @@ Establishing a platform that provides healthy, unadulterated products and thereb
 Travendo does not just stick to buying and selling, but also in increasing the employment rate in the rural by giving an opportunity to sell <b>“Made in village”</b> items.
 <br />
 ## Travendo - Frontend
-The frontend of Travendo is made mainly by using HTML, CSS and Material UI.
+The frontend of Travendo is made mainly by using <b>HTML</b>, <b>CSS</b>, and <b>Material UI</b>.
