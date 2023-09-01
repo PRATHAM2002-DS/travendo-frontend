@@ -32,6 +32,11 @@ Before you begin, ensure you have met the following requirements:
    npm start
 
 # Design images
+![Login Page](./Login_Page.png)
+![Home Page](./Home_Page.png)
+![Cards](./Cards.png)
+![Cart Page](./Cart.png)
+
 
   
 
