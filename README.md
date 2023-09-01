@@ -19,7 +19,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository.
 
    ```shell
-   git clone https://github.com/your-username/travendo.git
+   git clone https://github.com/PRATHAM2002-DS/travendo-frontend
 
 2. Install the project dependencies.
 
